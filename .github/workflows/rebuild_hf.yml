@@ -26,8 +26,8 @@ jobs:
 
       - name: Commit and push it HuggingFace
         run: |
-          git config --global user.name "🔥 Latte HF Rebuilder 🔥"
-          git config --global user.email "GitLatte@github.com"
+          git config --local user.email "GitLatte@github.com"
+          git config --local user.name "🔥 Latte HF Rebuilder 🔥"
           git add Dockerfile
           git commit -m "♻️ Success rebuild to HuggingFace space $NOWDATE"
           git push -f https://oauth2:${{ secrets.HF_TOKEN }}@huggingface.co/spaces/${{ secrets.HF_SPACE_NAME }} main
