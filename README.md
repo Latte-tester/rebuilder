@@ -1,9 +1,9 @@
 ---
-title: Engelsiz
-emoji: 📚
-colorFrom: indigo
-colorTo: green
+title: Nettv
+emoji: 🦀
+colorFrom: yellow
+colorTo: blue
 sdk: docker
 pinned: false
-short_description: Engelsiz
+short_description: 'Net TV '
 ---
