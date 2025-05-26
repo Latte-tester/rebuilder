@@ -1,9 +1,8 @@
 ---
-title: Nettv
-emoji: 😻
-colorFrom: green
-colorTo: yellow
+title: Nettv1
+emoji: 👁
+colorFrom: red
+colorTo: purple
 sdk: docker
 pinned: false
-short_description: Net TV
 ---
