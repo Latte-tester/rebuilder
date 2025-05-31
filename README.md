@@ -1,5 +1,5 @@
 ---
-title: Nettv1
+title: Nettv2
 emoji: 👁
 colorFrom: red
 colorTo: purple
