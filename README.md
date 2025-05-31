@@ -1,8 +1,8 @@
 ---
-title: Nettv2
+title: Nettv 1
 emoji: 👁
-colorFrom: red
-colorTo: purple
+colorFrom: pink
+colorTo: indigo
 sdk: docker
 pinned: false
 ---
